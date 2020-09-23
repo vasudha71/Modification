@@ -1,0 +1,20 @@
+1382  111
+1382  
+Windows
+Select browser
+
+
+C:/testing/report
+C:/testing/screen
+
+SCENARIOS
+C:/testing/report
+Windows
+Firefox
+
+
+C:/testing/report
+C:/testing/screen
+
+SCENARIOS
+C:/testing/report
